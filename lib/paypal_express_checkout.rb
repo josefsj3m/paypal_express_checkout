@@ -1,5 +1,2 @@
-require "paypal_express_checkout/version"
+require "paypal_express_checkout/recurring"
 
-module PaypalExpressCheckout
-  # Your code goes here...
-end
